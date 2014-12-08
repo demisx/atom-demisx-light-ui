@@ -2,8 +2,8 @@
   "name": "demisx-light-ui",
   "theme": "ui",
   "version": "0.36.0",
-  "description": "Default light theme for interface components",
-  "repository": "https://github.com/atom/atom-light-ui.git",
+  "description": "Light UI theme from @demisx for interface components",
+  "repository": "https://github.com/demisx/atom-demisx-light-ui.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
